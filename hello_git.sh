@@ -17,5 +17,9 @@ clear
 
 echo  -e "Hello Git\nIch bin eine zweite Zeile"
 echo  -e "\tNeue Zeile eingerückt"
+echo  -e "Eingefügt über Laptop\nund gepusht"
+
 
 exit 0
+
+
