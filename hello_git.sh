@@ -16,5 +16,6 @@
 clear
 
 echo  -e "Hello Git\nIch bin eine zweite Zeile"
+echo  -e "\tNeue Zeile eingerückt"
 
 exit 0
