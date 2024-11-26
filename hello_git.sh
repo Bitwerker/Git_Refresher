@@ -15,10 +15,10 @@
 
 clear
 
-echo  -e "Hello Git\nIch bin eine zweite Zeile"
+#echo  -e "Hello Git\nIch bin eine zweite Zeile"
 echo  -e "\tNeue Zeile eingerückt"
 echo  -e "Eingefügt über Laptop\nund gepusht"
-
+echo  -e "Erste Zeile auskommentiert"
 
 exit 0
 
